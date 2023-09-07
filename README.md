@@ -33,3 +33,4 @@ O objetivo desta atividade foi desenvolver uma aplicação web capaz de interagi
 - O vídeo de demonstração foi produzido, mostrando as etapas de implantação na Amazon EC2 e a integração com o Amazon RDS para o banco de dados.
 
 ## Vídeo de demonstração:
+https://drive.google.com/file/d/1viejKK5XYzztZXo1pUxJi9dimSmwSBJZ/view?usp=drive_link
